@@ -4,7 +4,7 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
+**Project Link** -https://jolly-pond-038221000.2.azurestaticapps.net/
 **project demo video link** - 
 
 ## Azure technologies used for Project
@@ -44,9 +44,16 @@ This is a web based application developed for health related based website in in
  <img width="1432" alt="Screenshot 2022-12-14 at 6 45 27 PM" src="https://user-images.githubusercontent.com/109547755/207605638-d8dcc855-3653-445c-8ecc-645fb14ec665.png">
 
  
- #cont
+ #contact us
  <img width="1432" alt="Screenshot 2022-12-14 at 6 45 40 PM" src="https://user-images.githubusercontent.com/109547755/207605715-7cf63387-b8cf-4545-a80e-a37a2bf1204e.png">
-actus
+
+## Tech Stack 💻
+
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
  
  
  
