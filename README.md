@@ -4,14 +4,14 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -https://jolly-pond-038221000.2.azurestaticapps.net/
+**Project DEMO Link** -https://jolly-pond-038221000.2.azurestaticapps.net/
 
-project demo video link : https://youtu.be/nyHmoSuAu7s
+project video link : https://youtu.be/nyHmoSuAu7s
 
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
+- Health bot service
 
 ## Features and Functionalities 😃
 
@@ -33,7 +33,8 @@ project demo video link : https://youtu.be/nyHmoSuAu7s
  <img width="1438" alt="Screenshot 2022-12-14 at 6 44 47 PM" src="https://user-images.githubusercontent.com/109547755/207605285-113a77be-8a1e-4613-b498-bd80f3f1afa8.png">
 
  
- #healthbot
+ #HEALTH BOT SERVICE 
+ 
  <img width="1059" alt="Screenshot 2022-12-14 at 6 47 32 PM" src="https://user-images.githubusercontent.com/109547755/207605553-b47d4b78-d750-4371-981d-fd133fd9bc7e.png">
 
  
